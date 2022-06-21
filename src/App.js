@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <h1 className="text-5xl text-orange-900 rounded-3xl ">Tailwind with css framework</h1>
+      <h1 className="text-6xl text-orange-900 rounded-3xl ">Tailwind Pricing Club!!</h1>
       
     </div>
   );
